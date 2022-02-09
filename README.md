@@ -7,7 +7,10 @@ These resources can also be utilized for competitive programming & general learn
 
 # Technical Interview Preparation
 - [Cracking interviews at Google, Amazon, & similar companies](https://techwithkp.com/how-to-crack-technical-interview-at-google-amazon-more/) - 
-This article contains information about all the interview rounds at software companies. It also contains a lot of resources on coding round, machine coding rounds, & system design.
+This article contains information about all the interview rounds at software companies. It also contains a lot of resources on coding round, machine coding rounds, & system design. It has information on
+  - Different Interview Rounds
+  - Resources for Technical Interviews
+  - Cracking The Interviews
 
 # Coding Platforms
 - [Best Coding Platforms](https://techwithkp.com/best-coding-platform-to-become-a-coding-expert/) - This article contains information about a lot of coding platforms available in today's world. You can judge all the platforms by reading the article and select the best one as per your needs. It compares different coding platforms on the basis of
