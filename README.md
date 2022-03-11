@@ -40,7 +40,7 @@ This article contains the information on how to crack the coding interviews. It 
   - Breaking Down the Requirements
   - Implementation of Digital Wallet
 
-## Algorithms
+# Algorithms
 - [Backtracking Algorithm](https://techwithkp.com/backtracking-algorithm-explained-with-examples/) - This article tells you all there is to know about the backtracking algorithm. It includes examples as well so you can understand better. It contains information on
   - State-Space Tree
   - Backtracking Algorithm Steps
